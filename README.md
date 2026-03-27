@@ -11,7 +11,7 @@ This describes the trends of HIV within some Nig. states between the year 2023-2
 
 [Tools Used](#Tools-Used)
 
-[Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis(EDA)-)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
 [Visualization](#Visualization)
 
@@ -57,7 +57,7 @@ The final objective is to integrate all datasets to generate actionable insights
 - YouTube 
 - GitHub
 
-## Exploratory Data Analysis(EDA)
+## Exploratory Data Analysis
 ---
 The exploratory data analysis for this project focuses on understanding the structure, quality, and key patterns within the HIV dataset across Nigeria from 2023 to 2025. The process begins with data cleaning, addressing inconsistencies such as missing values, duplicate records, and irregular text formats across the Patients, KPI (Payments), and Facilities tables. Standardization of variables like gender, treatment type, and payment methods ensures consistency for accurate analysis.
 
