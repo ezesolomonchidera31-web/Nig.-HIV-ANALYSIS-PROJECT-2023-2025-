@@ -2,6 +2,22 @@
 ---
 This describes the trends of HIV within some Nig. states between the year 2023-2025. This is generally a Demo as I have generated this Data-information from Chatgpt for practice and educative purpose. While it is a Demo it also highlights relevant information on Nigeria setback about HIV treatment and control. 
 
+## PROJECT CONTENT
+[Project Preview](#Project-Preview)
+
+[Problem Statement](#Problem-Statement)
+
+[Project Objectives](#Project-Objectives)
+
+[Tools Used](#Tools-Used)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Visualization](#Visualization)
+
+[AUTHOR](#AUTHOR)
+
+
 ## Project Preview
 ---
 HIV is a chronic infection caused by the virus "HUMAN IMMUNODEFICIENCY VIRUS". With scientific research and evolvement its threats to human life have been bridged but the root causes have not been fully stopped.
