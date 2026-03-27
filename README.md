@@ -11,7 +11,7 @@ This describes the trends of HIV within some Nig. states between the year 2023-2
 
 [Tools Used](#Tools-Used)
 
-[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis-(EDA))
 
 [Visualization](#Visualization)
 
