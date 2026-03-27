@@ -1,4 +1,4 @@
-# Nig.-HIV-ANALYSIS-PROJECT-2023-2025
+# Nig. HIV ANALYSIS PROJECT 2023-2025
 ---
 This describes the trends of HIV within some Nig. states between the year 2023-2025. This is generally a Demo as I have generated this Data-information from Chatgpt for practice and educative purpose. While it is a Demo it also highlights relevant information on Nigeria setback about HIV treatment and control. 
 
