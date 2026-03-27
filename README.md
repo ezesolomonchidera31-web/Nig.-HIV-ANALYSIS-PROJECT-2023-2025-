@@ -52,7 +52,8 @@ Overall, the EDA provides a foundational understanding of the dataset, identifie
 
 <img width="863" height="468" alt="HIV D1" src="https://github.com/user-attachments/assets/5db2eabe-b935-41d7-ad28-fb00ddedf8cb" />
 
+<img width="899" height="463" alt="HIV B1" src="https://github.com/user-attachments/assets/6f81aac9-4298-4d09-a63a-3dc357bd8087" />
 
-
+<img width="911" height="464" alt="HIV B2" src="https://github.com/user-attachments/assets/12a190b5-6c19-4831-ace8-e15d2abcbf29" />
 
 
